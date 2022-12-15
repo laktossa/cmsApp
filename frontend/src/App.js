@@ -4,7 +4,7 @@ import routes from "./routes/router";
 
 function App() {
   return (
-    <div className="App h-screen bg-blue-200">
+    <div className="App h-screen ">
       <RouterProvider router={routes} />
     </div>
   );
