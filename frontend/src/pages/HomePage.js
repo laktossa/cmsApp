@@ -24,7 +24,7 @@ export default function HomePage() {
           </div>
         </div>
         <div className="flex justify-center mt-10">
-          <h1>pagination</h1>
+          <h1> 1 </h1>
         </div>
       </div>
     </>

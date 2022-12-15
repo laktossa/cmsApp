@@ -29,6 +29,9 @@ export default function Layout() {
               <h1 className="font-bold">Riwayat</h1>
             </button>
             <button className="hover:bg-white">
+              <h1 className="font-bold">Tambah Admin</h1>
+            </button>
+            <button className="hover:bg-white" onClick={() => navigate("/")}>
               <h1 className="font-bold">Keluar</h1>
             </button>
           </div>
